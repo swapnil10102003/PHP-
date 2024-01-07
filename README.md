@@ -1,2 +1,2 @@
-# PHP-
+# PHP
 php lab assignments 
